@@ -1,0 +1,11 @@
+<templateSet group="Tarik SCSS">
+  <template name="/*props" value="/* Positioning */&#10;&#10;/* Display &amp; Box Model */&#10;&#10;/* Color */&#10;&#10;/* Text */&#10;&#10;/* Other */" description="CSS Property Order" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
